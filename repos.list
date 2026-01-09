@@ -1,4 +1,5 @@
 disafronov/ansible_project-docker_services
+disafronov/ansible_project-gitlab_omnibus
 disafronov/ansible_project-gitlab_runner
 disafronov/ansible_project-k3s
 disafronov/ansible_project-template
