@@ -1,9 +1,0 @@
-.github/workflows/release.yaml
-.github/workflows/semantic.yaml
-.github/workflows/validate.yaml
-.github/dependabot.yaml
-.cliff.git.toml
-.cliff.release.toml
-CHANGELOG.md
-update.list
-update.sh
