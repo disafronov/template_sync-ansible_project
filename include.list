@@ -1,4 +1,4 @@
 .github/
 .github/workflows/
-.github/workflows/assign-pr.yaml
-.github/workflows/ansible.yaml
+.github/workflows/assign-pr.yml
+.github/workflows/ansible.yml
