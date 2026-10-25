@@ -2,3 +2,4 @@
 .github/workflows/
 .github/workflows/assign-pr.yml
 .github/workflows/ansible.yaml
+.github/workflows/force-release-pr.yml
